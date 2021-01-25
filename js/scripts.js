@@ -1,4 +1,4 @@
-/* Template: Aria - Business HTML Landing Page Template
+/* Template: Lumbini Agro Research  - Business HTML Landing Page Template
    Author: Apptech
    Created: Jul 2019
    Description: Custom JS file

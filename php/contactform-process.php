@@ -32,7 +32,7 @@ if (empty($_POST["terms"])) {
 }
 
 $EmailTo = "email@gmail.com";
-$Subject = "New message from Aria landing page";
+$Subject = "New message from landing page";
 
 // prepare email body text
 $Body = "";

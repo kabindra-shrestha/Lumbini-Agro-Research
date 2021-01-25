@@ -1,4 +1,4 @@
-/* Template: Aria - Business HTML Landing Page Template
+/* Template: Lumbini Agro Research  - Business HTML Landing Page Template
    Author: Apptech
    Created: Jul 2019
    Description: Master CSS file
@@ -655,8 +655,10 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 7.0625rem;
-	height: 2rem;
+    /*width: 7.0625rem;
+	height: 2rem;*/
+	width: 5rem;
+	height: 5rem;
 	-webkit-backface-visibility: hidden;
 }
 
