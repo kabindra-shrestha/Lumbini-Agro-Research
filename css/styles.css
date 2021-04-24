@@ -182,7 +182,8 @@ strong {
 
 .btn-outline-reg {
 	display: inline-block;
-	padding: 1.1875rem 1.875rem 1.1875rem 1.875rem;
+	/*padding: 1.1875rem 1.875rem 1.1875rem 1.875rem;*/
+	padding: 0.7rem 0.5rem 0.7rem 0.5rem;
 	border: 0.125rem solid #787976;
 	border-radius: 0.25rem;
 	background-color: transparent;
@@ -2447,3 +2448,5 @@ a:hover.back-to-top {
 	/* end of navigation */
 }
 /* end of min-width width 1200px */
+
+#more {display: none;}
