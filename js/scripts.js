@@ -245,7 +245,7 @@
             var terms = $("#terms").val();
 
             $.ajax({
-            url: "https://script.google.com/macros/s/AKfycbxnNT6i-pmFq1AIPCXqOwdYyDwWZIn5-5AR4MrV2qWKtpSjf-b7RcYVsw/exec",
+            url: "https://script.google.com/macros/s/AKfycbyBFplpurEBpZDj7VP3Sa3YTYDD9OlQ7qppgIkY0hptNfgsbkx0S-KvU-YKmQeSc2FdfQ/exec",
             method: "POST",
             contentType: "application/x-www-form-urlencoded",
             dataType: "json",
@@ -266,7 +266,7 @@
                 }
             },
             error: function() {
-                alert("Something went wrong. Please try again.")
+                alert("Something went wrong. Please try again later.")
                     cformError();
                     csubmitMSG(false, text);
             }
